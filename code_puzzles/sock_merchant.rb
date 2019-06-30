@@ -1,2 +1,5 @@
-n = 7
-ar = [1,2,1,2,1,3,2]
+class SockMerchant
+  def sock_merchant(n, ar)
+
+  end
+end
