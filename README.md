@@ -19,8 +19,8 @@ The first line contains an integer , the number of socks represented in .
 The second line contains  space-separated integers describing the colors  of the socks in the pile.
 
 Constraints
-1 < n < 100
-1 < ar[i] < 100 where 0 < i < n
+1 <= n <= 100
+1 <= ar[i] <= 100 where 0 <= i < n
 
 Output Format
 
