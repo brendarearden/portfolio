@@ -11,4 +11,4 @@ function findNemo(array){
 }
 
 
-findNemo(large);
+findNemo(large);  //O(n) ---> Linear Time
